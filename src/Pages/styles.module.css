@@ -1,0 +1,58 @@
+.baner {
+    width: 100%;
+    height: 40vh;
+    border: 1px solid black;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIByR858zsRjTFMlQZ7_nJXmb1pudh_MkhhA&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100% 60vh;
+
+}
+
+.wel {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.welcome {
+    font-size: 37px;
+    color:blue;
+}
+
+.bu {
+
+    width: 20%;
+    height: 5vh;
+    margin-top: -7%;
+    margin-left: 10%;
+    padding: 7px;
+    cursor: pointer;
+    font-size: 17px;
+
+}
+
+.footer {
+    display: flex;
+    /* border: 1px solid red; */
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.faq {
+    width: 40%;
+
+}
+
+p span {
+    font-size: 20px;
+    margin-left: 3%;
+}
+
+.hr {
+    display: block;
+    width: 17%;
+    font-size: 30px;
+    margin-top: 3px;
+    border-bottom: 3px solid gold;
+    margin: auto;
+
+}
